@@ -1,0 +1,21 @@
+body {
+    width: 768px;
+    margin: 25px auto;
+    background-color: #ededed;
+}
+
+.CodeMirror {
+    border: 2px solid #a8a8a8;
+    min-height: 400px;
+    margin-bottom: 25px;
+    resize: vertical;
+}
+
+#preview {
+    padding: 20px 50px;
+    font-size: 25px;
+    background: #018d8d;
+    border: 2px solid #003434;
+    color: white;
+    font-family: "Roboto";
+}
